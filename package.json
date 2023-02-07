@@ -1,5 +1,5 @@
 {
-  "name": "api",
+  "name": "rocketnotes",
   "version": "1.0.0",
   "description": "API | Projeto 11 - Programa Explorer da Rocketseat",
   "main": "index.js",
@@ -9,18 +9,22 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/alineviana/api.git"
+    "url": "git+https://github.com/alineviana/rocketnotes.git"
   },
   "keywords": [],
   "author": "Aline Viana",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/alineviana/api/issues"
+    "url": "https://github.com/alineviana/rocketnotes/issues"
   },
-  "homepage": "https://github.com/alineviana/api#readme",
+  "homepage": "https://github.com/alineviana/rocketnotes#readme",
   "dependencies": {
+    "bcryptjs": "^2.4.3",
     "express": "^4.18.2",
-    "express-async-errors": "^3.1.1"
+    "express-async-errors": "^3.1.1",
+    "knex": "^2.4.2",
+    "sqlite": "^4.1.2",
+    "sqlite3": "^5.1.4"
   },
   "devDependencies": {
     "nodemon": "^2.0.20"
