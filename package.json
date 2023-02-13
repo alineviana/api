@@ -10,15 +10,15 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/alineviana/rocketnotes.git"
+    "url": "git+https://github.com/alineviana/api-rocketnotes.git"
   },
   "keywords": [],
   "author": "Aline Viana",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/alineviana/rocketnotes/issues"
+    "url": "https://github.com/alineviana/api-rocketnotes/issues"
   },
-  "homepage": "https://github.com/alineviana/rocketnotes#readme",
+  "homepage": "https://github.com/alineviana/api-rocketnotes#readme",
   "dependencies": {
     "bcryptjs": "^2.4.3",
     "express": "^4.18.2",
