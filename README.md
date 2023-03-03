@@ -7,12 +7,12 @@
 
 <br>
 
-### 🎯 Features
+## 🎯 Features
 - Gerenciamento de usuários, notas, tags e links
 
 <br>
 
-### 📖 Guia de instalação
+## 📖 Guia de instalação
 Clone o repositório utilizando o comando:
 
 ```
@@ -26,7 +26,7 @@ npm install
 
 <br>
 
-### 🚀 Inicializando
+## 🚀 Inicializando
 Para inicializar o servidor, execute o comando:
 
 ```
@@ -37,7 +37,7 @@ Conecte na API utilizando a porta 3333.
 
 <br>
 
-### 🖥️ Tecnologias utilizadas
+## 🖥️ Tecnologias utilizadas
 
 * [Node.js](https://nodejs.org/en/) 
 * [Express.js](https://expressjs.com/pt-br/) 
@@ -46,13 +46,13 @@ Conecte na API utilizando a porta 3333.
 
 <br>
 
-### 👩‍💻 Autora
+## 👩‍💻 Autora
 
 <table align="left">
     <tr align="left">
         <td>
             <a href="https://github.com/alineviana">
-                <img src="https://avatars.githubusercontent.com/u/80078418?v=4" width=90 />
+                <img src="https://avatars.githubusercontent.com/u/80078418?v=4" width=100 />
                 <p>👩🏽‍💻 Aline Viana</p> 
             </a>
         </td>
