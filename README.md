@@ -1,16 +1,15 @@
-# API | Projeto 12 - Programa Explorer da Rocketseat
+# Rocketnotes 📝 | Projeto 12 - Programa Explorer da Rocketseat
+<br>
 
 - Construindo uma API completa com Node.js e Express
 - Utilizando Insomnia para cadastrar rotas e verificar status code das mesmas
 - Criando um banco de dados utilizando SQLite
 - Manipulando o banco utilizando Beekeper Studio juntamente com o Query Builder Knex.js
 
-<br>
 
 ## 🎯 Features
 - Gerenciamento de usuários, notas, tags e links
 
-<br>
 
 ## 📖 Guia de instalação
 Clone o repositório utilizando o comando:
@@ -24,7 +23,6 @@ Install the dependencies:
 npm install
 ```
 
-<br>
 
 ## 🚀 Inicializando
 Para inicializar o servidor, execute o comando:
@@ -35,7 +33,6 @@ npm start
 
 Conecte na API utilizando a porta 3333.
 
-<br>
 
 ## 🖥️ Tecnologias utilizadas
 
@@ -44,7 +41,7 @@ Conecte na API utilizando a porta 3333.
 * [SQLite](https://www.sqlite.org/index.html) 
 * [Knex.js](https://knexjs.org/) 
 
-<br>
+
 
 ## 👩‍💻 Autora
 
